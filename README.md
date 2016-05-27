@@ -1,6 +1,6 @@
 # EchoTheMacro
 
-A simple Amazon Alexa skill to read essays from YC's The Macro. It is based on Amazon Alexa's fact template; it tries to pull down essays from YC's The Macro RSS feed and lets Echo read them for you.
+A simple Amazon Alexa skill to read essays from YC's The Macro. It is based on Amazon Alexa's fact template and it is now live in Echo's skill store (search 'The Macro' to install). It tries to pull down essays from YC's The Macro RSS feed and lets Echo read them for you.
 
 # Instructions:
 1. Download the nodejs dependencies, compress all files in src/ (including node_modules/) into an archive and upload to Amazon Lambda
