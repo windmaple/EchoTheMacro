@@ -1,0 +1,3 @@
+ReadNewEssayIntent read an essay
+ReadNewEssayIntent tell me something about startups
+ReadNewEssayIntent help me learn about startups
